@@ -7,8 +7,6 @@ An interactive theme switcher button for React that toggles between day and nigh
 - [Installation](#installation)
 - [Run Locally](#run-locally)
 - [Adding the ThemeSwitcherButton Component](#adding-the-themeswitcherbutton-component)
-- [Project Structure](#project-structure)
-- [Tech Stack](#tech-stack)
 - [License](#license)
 - [Contributing](#contributing)
 - [Author](#author)
