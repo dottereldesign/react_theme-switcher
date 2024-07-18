@@ -1,0 +1,13 @@
+body {
+  background-color: var(--bg-color-light);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  transition: background-color 0.8s ease;
+}
+
+.App {
+  text-align: center;
+}
