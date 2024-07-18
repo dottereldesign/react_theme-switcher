@@ -2,6 +2,17 @@
 
 An interactive theme switcher button for React that toggles between day and night themes.
 
+## Table of Contents
+
+- [Installation](#installation)
+- [Run Locally](#run-locally)
+- [Adding the ThemeSwitcherButton Component](#adding-the-themeswitcherbutton-component)
+- [Project Structure](#project-structure)
+- [Tech Stack](#tech-stack)
+- [License](#license)
+- [Contributing](#contributing)
+- [Author](#author)
+
 ## Installation
 
 Clone the repository and navigate to the project directory:
@@ -12,13 +23,13 @@ cd theme-switcher
 npm install
 ```
 
-# Run Locally
+## Run Locally
 
 ```
 npm start
 ```
 
-# Adding the ThemeSwitcherButton Component
+## Adding the ThemeSwitcherButton Component
 
 To use the ThemeSwitcherButton component in your project, follow these steps:
 
@@ -43,14 +54,14 @@ function App() {
 export default App;
 ```
 
-# License
+## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-# Contributing
+## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request.
 
-# Author
+## Author
 
 Jamie Wilson
